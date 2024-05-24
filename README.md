@@ -79,7 +79,7 @@ I'm an aspiring Software Development Engineer currently pursuing a Master's in E
 
 - **Programming Languages:** <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,go,c" />
+    <img src="https://skillicons.dev/icons?i=python,java,go,c, matlab, kotlin" />
   </a>
 </p>
 - **Web Development:** HTML, CSS, Django, React, Node.js, Vue, Docker, Kubernetes
