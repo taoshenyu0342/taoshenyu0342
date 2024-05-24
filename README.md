@@ -77,7 +77,7 @@ I'm an aspiring Software Development Engineer currently pursuing a Master's in E
 
 ## 🛠 Skills & Technologies
 
-- **Programming Languages:** Java, Golang, Python, MATLAB, JavaScript, C++
+- **Programming Languages:** [![My Skills](https://skillicons.dev/icons?i=java,go, python,kotlin&theme=light)](https://skillicons.dev)
 - **Web Development:** HTML, CSS, Django, React, Node.js, Vue, Docker, Kubernetes
 - **Databases and Cloud:** MySQL, MongoDB, AWS EC2, Google Cloud
 
