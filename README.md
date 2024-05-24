@@ -77,17 +77,17 @@ I'm an aspiring Software Development Engineer currently pursuing a Master's in E
 
 ## 🛠 Skills & Technologies
 
-- **Programming Languages:** 
-  <a href="https://skillicons.dev">
+- **Programming Languages:** <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,java,go,c,matlab,kotlin" />
   </a>
 
-- **Web Development:** 
-<a href="https://skillicons.dev">
+- **Web Development:** <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,js,docker,vue,django,kubernetes" />
   </a>
 
-- **Databases and Cloud:** MySQL, MongoDB, AWS EC2, Google Cloud
+- **Databases and Cloud:** <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,aws,gcp" />
+  </a>
 
 ### 📫 How to reach me
 - Email: [shenyut@andrew.cmu.edu](mailto:shenyut@andrew.cmu.edu)
