@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Shenyu Tao
 
-I'm an aspiring Software Development Engineer currently pursuing a Master's in Electrical and Computer Engineering at Carnegie Mellon University. I am passionate about developing innovative solutions and enhancing my coding, problem-solving, and design skills.
+I'm an aspiring Software Development Engineer currently pursuing a Master's in Electrical and Computer Engineering at Carnegie Mellon University.
 
 
 ---
@@ -21,13 +21,13 @@ I'm an aspiring Software Development Engineer currently pursuing a Master's in E
 **Master of Science in Electrical and Computer Engineering**  
 *May 2023 - May 2025*  
 - GPA: 3.89/4.0
-- Relevant Courses: Advanced Cloud Computing, Distributed Systems, Java Application and Data Structure
+- Relevant Courses: Advanced Cloud Computing, Distributed Systems, Database Systems
 
 ### Rensselaer Polytechnic Institute, Troy, NY
 **Bachelor of Science in Electrical Engineering**  
 *Sep 2019 - May 2023*  
 - GPA: 3.87/4.0
-- Relevant Courses: Data Structure and Algorithm, Computer Components and Operations, Principles of Software
+- Relevant Courses: Data Structures and Algorithm, Computer Components and Operations, Principles of Software
 
 ---
 
