@@ -9,10 +9,9 @@ I'm an aspiring Software Development Engineer currently pursuing a Master's in E
 
 ### Software Engineering Intern at Shanghai Technology Development Co. Ltd. 
 **Aug 2021 - Dec 2021**  
-- Configured and managed a Hadoop ecosystem, including Spark, Zookeeper, and Hive database.
-- Implemented Kerberos authentication for Hadoop, enhancing security measures.
-- Processed large-scale geographical datasets, utilizing Spark SQL and Python for data analysis.
-
+- Built and optimized a Hadoop HDFS cluster for handling large-scale geographical datasets (over 10TB) on a Linux environment across 7 machines, ensuring high availability, fault tolerance with Zookeeper
+- Developed RESTful APIs using Java Spring Boot, integrating with Spark RDD to create a custom data cleaning pipeline that retrieves, processes, and transforms large-scale geographical datasets, improving processing speed by 30%
+- Engineered a real-time data ingestion system using Kafka, handling 10,000+ messages per second of data from various environmental sources (e.g., temperature and humidity sensors) in polar regions.
 ---
 
 ## 📚 Education
